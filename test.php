@@ -15,4 +15,7 @@ $s;
 echo "Pavan";
 echo "R";
 echo "hello swetha";
+echo "hello swetha b";
+echo "hai";
+
 ?>
