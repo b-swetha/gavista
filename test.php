@@ -7,5 +7,7 @@ $d = $c * $a * $b;
 echo $d;
 $e = $d + $c;
 echo $e;
+$nee = $e + $a - $b;
+echo $nee;
 $p;
 ?>
