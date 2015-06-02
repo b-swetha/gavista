@@ -14,5 +14,11 @@ $s;
 
 echo "Pavan";
 echo "R";
+<<<<<<< HEAD
 echo "hello swetha";
+=======
+echo "abcd";
+echo "cde";
+
+>>>>>>> 2db416bd87fcc23c284b6fb9dbd0f3f4807a2a02
 ?>
